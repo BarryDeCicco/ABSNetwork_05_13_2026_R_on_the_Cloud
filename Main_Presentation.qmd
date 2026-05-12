@@ -18,6 +18,8 @@ You can also share projects with others, which allows collaboration, and makes t
 
 You will see your workspace (mine is full; yours will be empty):
 
-![Workspace](Workspace_Screenshot.png)
+Workspace
+
+![](Workspace_Screenshot.png){width=80%}
 
 ## Creating a Project from Github
