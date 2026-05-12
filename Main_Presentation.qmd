@@ -1,8 +1,6 @@
 ---
 title: "Posit Cloud - R on the Web"
-subtitle: "ABS Networ13, 2026, May "
-author: "Barry DeCicco"
-date: today
+subtitle: "ABS Network, May 13, 202
 format: revealjs
 ---
 
