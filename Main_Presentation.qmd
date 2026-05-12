@@ -43,7 +43,7 @@ The interface is very much like the desktop version of RStudio, with a few chang
 -   The session is running on a Linux box somewhere, and not your PC; you can issue the command 'uname -a' to see information about this linux box. Also, the path is '/cloud/project',
 
 
-## Importing and exporting results:
+## Importing files:
 
 To get files from your PC to the project, use the 'Upload' button, and select
 your file:
