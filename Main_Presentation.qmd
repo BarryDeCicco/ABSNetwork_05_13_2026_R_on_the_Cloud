@@ -10,12 +10,11 @@ Posit Cloud allows you to run RStudio projects completely on the web, with no lo
 
 You can also share projects with others, which allows collaboration, and makes teaching classes far easier. The students can start with the same setup, saving setup time.
 
-## Bullets
+## Getting Posit Cloud
 
-When you click the **Render** button a document will be generated that includes:
+-   Go to [Posit.cloud](https://posit.cloud)
 
--   Content authored with markdown
--   Output from executable code
+-   Sign up for a free account.
 
 ## Code
 
