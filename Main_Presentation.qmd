@@ -34,7 +34,20 @@ It's good to be able to push changes to the repository. I have included document
 
 -   Connecting_Posit_Cloud_to_GitHub_Using_PAT.docx
 
+## Navigating the interface:
+
+The interface is very much like the desktop version of RStudio, with a few changes:
+
+-   The lower right panel has commands to upload and export files.
+
+-   The session is running on a Linux box somewhere, and not your PC; you can issue the command 'uname -a' to see information about this linux box. Also, the path is '/cloud/project',
 
 
+## Importing and exporting results:
+
+To get files from your PC to the project, use the 'Upload' button, and select
+your file:
+
+![](Upload_Files_Screenshot.png){width="80%"}
 
 
