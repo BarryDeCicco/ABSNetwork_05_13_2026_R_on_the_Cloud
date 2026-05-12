@@ -50,4 +50,11 @@ your file:
 
 ![](Upload_Files_Screenshot.png){width="80%"}
 
+## Exporting files:
+
+
+To get files from your PC to the project, use the 'Upload' button, and select
+your file:
+
+![](Upload_Files_Screenshot.png){width="80%"}
 
