@@ -1,7 +1,9 @@
 ---
 title: "Posit Cloud - R on the Web"
 subtitle: "ABS Network, May 13, 2026"
-format: revealjs
+format:
+  revealjs:
+    embed-resources: true
 ---
 
 ## Posit Cloud
