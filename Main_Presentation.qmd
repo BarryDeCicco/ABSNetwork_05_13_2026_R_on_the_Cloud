@@ -20,7 +20,7 @@ You will see your workspace (mine is full; yours will be empty):
 
 \![\](Workspace_Screenshot.png)
 
-## Code
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png) \## Code
 
 When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
 
