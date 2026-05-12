@@ -56,5 +56,18 @@ your file:
 To get files from your PC to the project, use the 'Upload' button, and select
 your file:
 
-![](Upload_Files_Screenshot.png){width="80%"}
+![](Export_Files_Screenshot.png){width="80%"}
+
+## References:
+
+-   Posit Cloud Documentation: (https://docs.posit.co/cloud/) contains
+sections:
+
+-  Get Started with Posit Cloud
+
+-   f
+
+-   f
+
+-   f
 
