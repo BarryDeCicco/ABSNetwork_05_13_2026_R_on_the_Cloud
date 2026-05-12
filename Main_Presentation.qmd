@@ -18,7 +18,15 @@ You can also share projects with others, which allows collaboration, and makes t
 
 You will see your workspace (mine is full; yours will be empty):
 
-
-![](Workspace_Screenshot.png){width=80%}
+![](Workspace_Screenshot.png){width="80%"}
 
 ## Creating a Project from Github
+
+You can create a project from a Github repository, to get all of the advantages
+of Github in addition to those of Posit Cloud:
+
+
+![](New_Project_from_Github.png){width="80%"}
+
+
+## 
