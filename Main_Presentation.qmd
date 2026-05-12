@@ -16,6 +16,10 @@ You can also share projects with others, which allows collaboration, and makes t
 
 -   Sign up for a free account.
 
+You will see your workspace (mine is full; yours will be empty):
+
+\![\](Images/Workspace Screenshot.png)
+
 ## Code
 
 When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
