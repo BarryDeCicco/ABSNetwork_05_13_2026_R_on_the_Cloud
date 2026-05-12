@@ -22,11 +22,19 @@ You will see your workspace (mine is full; yours will be empty):
 
 ## Creating a Project from Github
 
-You can create a project from a Github repository, to get all of the advantages
-of Github in addition to those of Posit Cloud:
-
+You can create a project from a Github repository, to get all of the advantages of Github in addition to those of Posit Cloud:
 
 ![](New_Project_from_Github.png){width="80%"}
 
+## Connecting to Github - SSH and PAT
 
-## 
+It's good to be able to push changes to the repository. I have included documentation of two methods of connecting which allow the user to push changes (they will be made available later):
+
+-   Connecting_Posit_Cloud_to_GitHub_SSH.docx
+
+-   Connecting_Posit_Cloud_to_GitHub_Using_PAT.docx
+
+
+
+
+
