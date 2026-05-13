@@ -62,7 +62,7 @@ your file:
 
 ## References:
 
--   [Posit Cloud Documentation](https://docs.posit.co/cloud/) contains
++   [Posit Cloud Documentation](https://docs.posit.co/cloud/) contains
 sections:
 
   + [Get Started with Posit Cloud](https://docs.posit.co/cloud/get_started/)
@@ -77,9 +77,9 @@ sections:
   
   + [Join the Posit Cloud Community](https://forum.posit.co/c/posit-professional-hosted/posit-cloud/14)
 
--  AI:  I used Claude AI for much of this presentation ('how do I xxx in ...?')
++  AI:  I used Claude AI for much of this presentation ('how do I xxx in ...?')
 
-
+### test code
 * unordered list
   + sub-item 1
   + sub-item 2
