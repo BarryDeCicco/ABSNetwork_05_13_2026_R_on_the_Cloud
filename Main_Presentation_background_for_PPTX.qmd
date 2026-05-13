@@ -1,0 +1,97 @@
+---
+title: "Posit Cloud - R on the Web"
+subtitle: "ABS Network, May 13, 2026"
+format:
+  pptx:
+    embed-resources: true
+    theme: default
+    background-color: "#87CEEB"
+    footer: "<b style='font-size: 2.0em;'>ABS Network | May 2026</b>"
+---
+## Posit Cloud
+
+Posit Cloud allows you to run RStudio projects completely on the web, with no local installations needed. You can upload and download files and data sets to and from your local computer.
+
+You can also share projects with others, which allows collaboration, and makes teaching classes far easier. The students can start with the same setup, saving setup time.
+
+## Getting Posit Cloud
+
+-   Go to [Posit.cloud](https://posit.cloud)
+
+-   Sign up for a free account.
+
+You will see your workspace (mine is full; yours will be empty):
+
+![](Workspace_Screenshot.png){width="80%"}
+
+## Creating a Project from Github
+
+You can create a project from a Github repository, to get all of the advantages of Github in addition to those of Posit Cloud:
+
+![](New_Project_from_Github.png){width="80%"}
+
+## Connecting to Github - SSH and PAT
+
+It's good to be able to push changes to the repository. I have included documentation of two methods of connecting which allow the user to push changes (they will be made available later):
+
+-   [Connecting_Posit_Cloud_to_GitHub_SSH.docx](https://github.com/BarryDeCicco/ABSNetwork_05_13_2026_R_on_the_Cloud/blob/main/Connecting_Posit_Cloud_to_GitHub_SSH.docx)
+
+-   [Connecting_Posit_Cloud_to_GitHub_Using_PAT.docx](https://github.com/BarryDeCicco/ABSNetwork_05_13_2026_R_on_the_Cloud/blob/main/Connecting_Posit_Cloud_to_GitHub_Using_PAT.docx)
+
+## Navigating the interface:
+
+The interface is very much like the desktop version of RStudio, with a few changes:
+
+-   The lower right panel has commands to upload and export files.
+
+-   The session is running on a Linux box somewhere, and not your PC; you can issue the command 'uname -a' to see information about this linux box. Also, the path is '/cloud/project',
+
+
+## Importing files:
+
+To get files from your PC to the project, use the 'Upload' button, and select
+your file:
+
+![](Upload_Files_Screenshot.png){width="80%"}
+
+## Exporting files:
+
+
+To get files from your PC to the project, use the 'Upload' button, and select
+your file:
+
+![](Export_Files_Screenshot.png){width="80%"}
+
+## References:
+
+*   [Posit Cloud Documentation](https://docs.posit.co/cloud/) contains
+sections:
+
+  + [Get Started with Posit Cloud](https://docs.posit.co/cloud/get_started/)
+
+  + [Explore the Posit Cloud Guide](https://docs.posit.co/cloud/guide/projects/)
+
+  + [See What’s New on Posit Cloud](https://docs.posit.co/cloud/whats_new/)
+
+  + [Sample Recipes on Posit Cloud](https://posit.cloud/learn/recipes)
+
+  + [Peek at Cheatsheets for Your Posit Cloud Projects](https://posit.co/resources/cheatsheets)
+  
+  + [Join the Posit Cloud Community](https://forum.posit.co/c/posit-professional-hosted/posit-cloud/14)
+
+* AI:  I used Claude AI for much of this presentation ('how do I xxx in ...?')
+
+## References (continued):
+
+
+*   Connecting to Github:
+
+  + [Connecting_Posit_Cloud_to_GitHub_SSH.docx](https://github.com/BarryDeCicco/ABSNetwork_05_13_2026_R_on_the_Cloud/blob/main/Connecting_Posit_Cloud_to_GitHub_SSH.docx)
+
+  + [Connecting_Posit_Cloud_to_GitHub_Using_PAT.docx](https://github.com/BarryDeCicco/ABSNetwork_05_13_2026_R_on_the_Cloud/blob/main/Connecting_Posit_Cloud_to_GitHub_Using_PAT.docx)
+  
+## Source:
+
+This presentation is in a public Github repository: 
+
+*  [ABSNetwork_05_13_2026_R_on_the_Cloud](https://github.com/BarryDeCicco/ABSNetwork_05_13_2026_R_on_the_Cloud)
