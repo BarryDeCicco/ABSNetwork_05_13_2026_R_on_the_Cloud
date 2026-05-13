@@ -65,11 +65,19 @@ your file:
 -   Posit Cloud Documentation: (https://docs.posit.co/cloud/) contains
 sections:
 
--  Get Started with Posit Cloud
+-  [Get Started with Posit Cloud](https://docs.posit.co/cloud/get_started/)
 
--   f
+-  [Explore the Posit Cloud Guide](https://docs.posit.co/cloud/guide/projects/)
 
--   f
+-  [See What’s New on Posit Cloud](https://docs.posit.co/cloud/whats_new/)
 
--   f
+-  [Sample Recipes on Posit Cloud](https://posit.cloud/learn/recipes)
+
+-  [Peek at Cheatsheets for Your Posit Cloud Projects](https://posit.co/resources/cheatsheets)
+
+-  [Join the Posit Cloud Community](https://forum.posit.co/c/posit-professional-hosted/posit-cloud/14)
+
+-  AI:  I used Claude AI for much of this presentation ('how do I xxx in ...?')
+
+
 
