@@ -89,3 +89,8 @@ sections:
   + [Connecting_Posit_Cloud_to_GitHub_SSH.docx](https://docs.google.com/document/d/1b5W1zraVBcij29lo-3WDaq9Atw8RKWQp/edit?usp=drive_link&ouid=117358642447087490549&rtpof=true&sd=true)
 
   + [Connecting_Posit_Cloud_to_GitHub_Using_PAT.docx](https://docs.google.com/document/d/1lHcjm3d1wYTlLzFerpZheGrZtH5nmGq5/edit?usp=drive_link&ouid=117358642447087490549&rtpof=true&sd=true)
+  
+## Source:
+
+This presentation is in a public Github repository: 
+*  [ABSNetwork_05_13_2026_R_on_the_Cloud](https://github.com/BarryDeCicco/ABSNetwork_05_13_2026_R_on_the_Cloud)
