@@ -6,6 +6,7 @@ format:
     embed-resources: true
     theme: default
     background-color: "#87CEEB"
+    footer: "ABS Network, May 13, 2026"
 ---
 ## Posit Cloud
 
