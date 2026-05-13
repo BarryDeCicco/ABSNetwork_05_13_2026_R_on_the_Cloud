@@ -62,7 +62,7 @@ your file:
 
 ## References:
 
-+   [Posit Cloud Documentation](https://docs.posit.co/cloud/) contains
+*   [Posit Cloud Documentation](https://docs.posit.co/cloud/) contains
 sections:
 
   + [Get Started with Posit Cloud](https://docs.posit.co/cloud/get_started/)
