@@ -4,9 +4,9 @@ subtitle: "ABS Network, May 13, 2026"
 format:
   revealjs:
     embed-resources: true
+    theme: default
     background-color: "#87CEEB"
 ---
-
 ## Posit Cloud
 
 Posit Cloud allows you to run RStudio projects completely on the web, with no local installations needed. You can upload and download files and data sets to and from your local computer.
