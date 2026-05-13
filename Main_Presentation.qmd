@@ -79,7 +79,7 @@ sections:
 
 +  AI:  I used Claude AI for much of this presentation ('how do I xxx in ...?')
 
-### test code
+## test code
 * unordered list
   + sub-item 1
   + sub-item 2
