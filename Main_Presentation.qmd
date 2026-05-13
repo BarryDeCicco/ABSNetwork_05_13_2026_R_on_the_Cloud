@@ -65,7 +65,7 @@ your file:
 -   [Posit Cloud Documentation](https://docs.posit.co/cloud/) contains
 sections:
 
--    [Get Started with Posit Cloud](https://docs.posit.co/cloud/get_started/)
+  -  [Get Started with Posit Cloud](https://docs.posit.co/cloud/get_started/)
 
 -  [Explore the Posit Cloud Guide](https://docs.posit.co/cloud/guide/projects/)
 
