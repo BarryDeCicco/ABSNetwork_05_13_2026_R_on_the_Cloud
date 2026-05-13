@@ -77,10 +77,6 @@ sections:
   
   + [Join the Posit Cloud Community](https://forum.posit.co/c/posit-professional-hosted/posit-cloud/14)
 
-+  AI:  I used Claude AI for much of this presentation ('how do I xxx in ...?')
+* AI:  I used Claude AI for much of this presentation ('how do I xxx in ...?')
 
-## test code
-* unordered list
-  + sub-item 1
-  + sub-item 2
-    - sub-sub-item 1
+
